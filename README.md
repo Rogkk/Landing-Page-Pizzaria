@@ -9,7 +9,7 @@
 ![javascript][JavaScript]
 
 <p align="center">
-    <b>O projeto consiste em uma página web voltada para atrair clientes, gerar leads e aumentar as vendas no setor de restaurantes, pizzarias e lanchonetes. A página inclui uma seção com a descrição do estabelecimento e sua história, seguida por um cardápio prévio. Além disso, apresenta botões que direcionam o usuário para ações específicas, como reservar mesas ou montar e solicitar pedidos.
+    <b>O projeto consiste em uma página web voltada para atrair clientes e aumentar as vendas no setor de restaurantes, pizzarias e lanchonetes. A página inclui uma seção com a descrição do estabelecimento e sua história, seguida por um cardápio prévio. Além disso, apresenta botões que direcionam o usuário para ações específicas, como reservar mesas ou montar e solicitar pedidos.
 A página foi desenvolvida com foco na responsividade, adaptando-se a diferentes dispositivos e resoluções. Por exemplo, em smartphones, há um menu toggle — um menu oculto que pode ser acessado ao clicar em um ícone —, garantindo uma experiência limpa e organizada, sem sobrecarregar a interface com excesso de informações.</b>
 </p>
 
@@ -29,4 +29,4 @@ A página foi desenvolvida com foco na responsividade, adaptando-se a diferentes
 - JS para atualizações dinamicas em tempo real.
 
 <h2>⁉ Por que foi feito?</h2>
-<p>O projeto integra um portfólio de landing pages e foi desenvolvido como um demonstrativo prático para empresários interessados em expandir seus negócios, destacando as oportunidades disponíveis nesse mercado. A página foi projetada com o objetivo de atrair clientes, gerar leads e impulsionar as vendas no segmento de restaurantes, pizzarias e lanchonetes.</p>
+<p>O projeto integra um portfólio de landing pages e foi desenvolvido como um demonstrativo prático para empresários interessados em expandir seus negócios, destacando as oportunidades disponíveis nesse mercado. A página foi projetada com o objetivo de atrair clientes e impulsionar as vendas no segmento de restaurantes, pizzarias e lanchonetes.</p>
